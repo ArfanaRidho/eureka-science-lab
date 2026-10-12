@@ -32,8 +32,10 @@ export const metadata: Metadata = {
     "Astronomi",
     "Simulasi Interaktif",
     "Edukasi Sains Indonesia",
+    "Arfana Ridho",
   ],
-  authors: [{ name: "EurekaLab Discovery Team" }],
+  authors: [{ name: "Arfana Ridho", url: "https://www.linkedin.com/in/arfana-ridho-3b7463342" }],
+  creator: "Arfana Ridho",
   openGraph: {
     title: "EurekaLab — Interactive Scientific Discovery Platform",
     description: "Every Great Discovery Begins With a Question. Eksplorasi sains interaktif dalam bahasa Indonesia.",
