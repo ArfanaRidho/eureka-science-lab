@@ -134,7 +134,7 @@ export default function Footer() {
         <div className="pt-6 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-[#A8B7C8]/70">
           <div className="flex flex-wrap items-center justify-center md:justify-start gap-1.5 sm:gap-2 text-center md:text-left">
             <span>
-              &copy; {new Date().getFullYear()} <strong className="text-white font-semibold">Arfana Ridho</strong> &bull; EurekaLab.
+             &copy; 2026 <strong className="text-white font-semibold">Arfana Ridho</strong> &bull; EurekaLab.
             </span>
             <span className="hidden sm:inline text-[#1E3A5F]">|</span>
             <span>Hak Cipta Dilindungi. Platform Edukasi Terbuka Indonesia.</span>
